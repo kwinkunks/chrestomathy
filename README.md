@@ -4,7 +4,7 @@ A collection of notebooks exploring various ways to do some scientific tasks, wi
 
 ## Same nail, different hammer
 
-A **crestomathy** is, according to [Wikipedi](https://en.wikipedia.org/wiki/Chrestomathy):
+A **crestomathy** is, according to [Wikipedia](https://en.wikipedia.org/wiki/Chrestomathy):
 
 > A chrestomathy (from the Ancient Greek χρηστός, khrēstós, meaning "useful", and μανθάνω, manthánō, meaning "learn") is a collection of selected literary passages [...]; a selection of literary passages from a foreign language assembled for studying the language; or a text in various languages, used especially as an aid in learning a subject. [...] It is different from an anthology because of its didactic purpose.
 
