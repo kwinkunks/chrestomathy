@@ -2,7 +2,7 @@
 
 A collection of notebooks exploring various ways to do some scientific tasks, with a bit of a geoscience flavour to some of them.
 
-## Same nail, different hammer
+## Same nail, different hammers
 
 A **crestomathy** is, according to [Wikipedia](https://en.wikipedia.org/wiki/Chrestomathy):
 
