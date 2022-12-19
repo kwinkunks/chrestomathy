@@ -1,4 +1,4 @@
-# crestomathy
+# chrestomathy
 
 A collection of notebooks exploring various ways to do some scientific tasks, with a bit of a geoscience flavour to some of them.
 
