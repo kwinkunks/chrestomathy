@@ -1,6 +1,7 @@
 # chrestomathy
 
-A collection of notebooks exploring various ways to do some scientific tasks, with a bit of a geoscience flavour to some of them.
+A collection of notebooks exploring various ways to do some scientific and statistical calculations, with a bit of a geoscience flavour to some of them.
+
 
 ## Same nail, different hammers
 
@@ -10,15 +11,22 @@ A **crestomathy** is, according to [Wikipedia](https://en.wikipedia.org/wiki/Chr
 
 Each notebook in this unstructured collection explores a different goal, such as performing linear regression on some data, gridding irregular data to make a map (also a regression), or solving a linear algebraic equation. Each exploration involves stating the problem, then looking at different ways to do it, usually in increasingly sophisticated ways.
 
+
 ## Notebooks
 
-- Linear_regression.ipynb
-- Regression_algoithms.ipynb
-- Wavelet_estimation.ipynb
-- Map_interpolation.ipynb
-- Phase_determination.ipynb
-- Unsupervised_clustering_on_rock_properties.ipynb
-- Curse_of_dimensionality.ipynb
+### Maths and stats flavour
+
+- [Averages.ipynb](notebooks/Averages.ipynb) ✨ **New**
+- [Linear_regression.ipynb](notebooks/Linear_regression.ipynb)
+- [Regression_algorithms.ipynb](notebooks/Regression_algorithms.ipynb)
+- [Curse_of_dimensionality.ipynb](notebooks/Curse_of_dimensionality.ipynb)
+
+### Geoscience flavour
+
+- [Unsupervised_clustering.ipynb](notebooks/Unsupervised_clustering.ipynb) (of rock properties)
+- [Map_interpolation.ipynb](notebooks/Map_interpolation.ipynb)
+- [Phase_determination.ipynb](notebooks/Phase_determination.ipynb) (of seismic data)
+- [Wavelet_estimation.ipynb](notebooks/Wavelet_estimation.ipynb) (from wells and seismic)
 
 
 ## Suggested additions
