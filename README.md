@@ -16,19 +16,19 @@ Each notebook in this unstructured collection explores a different goal, such as
 
 ### 🥨 Maths and stats flavour
 
-- [Averages.ipynb](notebooks/Averages.ipynb) ✨ **New**
-- [Activation_functions.ipynb](notebooks/Activation_functions.ipynb) ✨ **New**
-- [Linear_regression.ipynb](notebooks/Linear_regression.ipynb)
-- [Regression_algorithms.ipynb](notebooks/Regression_algorithms.ipynb)
-- [Curse_of_dimensionality.ipynb](notebooks/Curse_of_dimensionality.ipynb)
-- [Function_differentiation.ipynb](notebooks/Function differentiation.ipynb) ✨ **New**
+- [Averages](notebooks/Averages.ipynb) ✨ **New**
+- [Activation functions](notebooks/Activation_functions.ipynb) ✨ **New**
+- [Function differentiation](notebooks/Function_differentiation.ipynb) ✨ **New**
+- [Linear regression](notebooks/Linear_regression.ipynb)
+- [Regression algorithms](notebooks/Regression_algorithms.ipynb)
+- [Curse of dimensionality](notebooks/Curse_of_dimensionality.ipynb)
 
 ### ⚒️  Geoscience flavour
 
-- [Unsupervised_clustering.ipynb](notebooks/Unsupervised_clustering.ipynb) (of rock properties)
-- [Map_interpolation.ipynb](notebooks/Map_interpolation.ipynb)
-- [Phase_determination.ipynb](notebooks/Phase_determination.ipynb) (of seismic data)
-- [Wavelet_estimation.ipynb](notebooks/Wavelet_estimation.ipynb) (from wells and seismic)
+- [Map interpolation](notebooks/Map_interpolation.ipynb)
+- [Unsupervised clustering](notebooks/Unsupervised_clustering.ipynb) (of rock properties)
+- [Phase determination](notebooks/Phase_determination.ipynb) (of seismic data)
+- [Wavelet estimation](notebooks/Wavelet_estimation.ipynb) (from wells and seismic)
 
 
 ## Suggested additions
