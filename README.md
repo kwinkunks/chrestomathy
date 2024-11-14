@@ -25,8 +25,8 @@ Each notebook in this unstructured collection explores a different goal, such as
 
 ### ⚒️  Geoscience flavour
 
-- [Unsupervised clustering](notebooks/Unsupervised_clustering.ipynb) (of rock properties)
 - [Map interpolation](notebooks/Map_interpolation.ipynb)
+- [Unsupervised clustering](notebooks/Unsupervised_clustering.ipynb) (of rock properties)
 - [Phase determination](notebooks/Phase_determination.ipynb) (of seismic data)
 - [Wavelet estimation](notebooks/Wavelet_estimation.ipynb) (from wells and seismic)
 
