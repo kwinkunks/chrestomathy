@@ -21,7 +21,7 @@ Each notebook in this unstructured collection explores a different goal, such as
 - [Linear_regression.ipynb](notebooks/Linear_regression.ipynb)
 - [Regression_algorithms.ipynb](notebooks/Regression_algorithms.ipynb)
 - [Curse_of_dimensionality.ipynb](notebooks/Curse_of_dimensionality.ipynb)
-- [Function_differentiation.ipynb](notebooks/Function differentiation.ipynb) ✨ **New**
+- [Function_differentiation.ipynb](notebooks/Function_differentiation.ipynb) ✨ **New**
 
 ### ⚒️  Geoscience flavour
 
