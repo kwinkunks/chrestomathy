@@ -14,14 +14,16 @@ Each notebook in this unstructured collection explores a different goal, such as
 
 ## Notebooks
 
-### Maths and stats flavour
+### 🥨 Maths and stats flavour
 
 - [Averages.ipynb](notebooks/Averages.ipynb) ✨ **New**
+- [Activation_functions.ipynb](notebooks/Activation_functions.ipynb) ✨ **New**
 - [Linear_regression.ipynb](notebooks/Linear_regression.ipynb)
 - [Regression_algorithms.ipynb](notebooks/Regression_algorithms.ipynb)
 - [Curse_of_dimensionality.ipynb](notebooks/Curse_of_dimensionality.ipynb)
+- [Function_differentiation.ipynb](notebooks/Function differentiation.ipynb) ✨ **New**
 
-### Geoscience flavour
+### ⚒️  Geoscience flavour
 
 - [Unsupervised_clustering.ipynb](notebooks/Unsupervised_clustering.ipynb) (of rock properties)
 - [Map_interpolation.ipynb](notebooks/Map_interpolation.ipynb)
