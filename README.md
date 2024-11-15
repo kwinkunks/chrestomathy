@@ -36,6 +36,21 @@ Each notebook in this unstructured collection explores a different goal, such as
 
 Topics for the future:
 
+- Ways to represent points in 2-space, very useful for Advent of Code (eg [2018 Day 10 one](https://github.com/kwinkunks/aoc18/blob/master/day10.py)):
+  - Implicit position using counters or enumeration in loops
+  - `tuple(x, y)` or `tuple(col, row)`
+  - `complex(x, y)`
+  - `Point` class...
+  - ...with `functools.total_ordering`, operator overloading, etc
+  - `shapely.Point` class
+- Different ways to make a normal distribution (and/or other distributions as well perhaps).
+- Sorting algorithms, but this has been done many times before.
+- Pathfinding algorithms, but this is probably beyond me since I've never managed those problems in Advent of Code :D
+- Binary classification algorithms: probably can't beat [scikit-learn's comparison](https://scikit-learn.org/1.5/auto_examples/classification/plot_classifier_comparison.html) though.
+- Multiclass classification algorithms, using rock property catalog data, and with the multi-class decision surface visualization [from Agile](https://github.com/agilescientific/geocomputing/blob/develop/prod/Classification_algorithms.ipynb).
+- Clustering algorithms (or maybe just add to or generalize the existing notebook), but again [sklearn's comparison](https://scikit-learn.org/1.5/auto_examples/cluster/plot_cluster_comparison.html) is totally awesome.
+- Data assimilation methods, although quite technical, and probably already perfectly well done by, eg, [`dapper`](https://github.com/nansencenter/DAPPER)
+- Bayesian parameter estimation is perhaps more approachable than data assimilation.
 - Distance algorithms are a huge subject &mdash; some of these topics deserve whole notebooks to themselves. There are plenty to choose from.
   - All the Minkowski distances (L0, L1 L2, etc) and maybe octile distance
   - Coherence etc for seismic
