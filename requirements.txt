@@ -1,0 +1,16 @@
+jupyter
+ipywidgets
+ipykernel
+matplotlib
+seaborn
+numpy
+scipy
+statsmodels
+pandas
+scikit-learn
+jax
+torch
+umap-learn
+hdbscan
+segyio
+bruges
