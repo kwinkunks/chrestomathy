@@ -1,0 +1,22 @@
+[project]
+name = "chrestomathy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "bruges>=0.5.4",
+    "gplearn>=0.4.2",
+    "hdbscan>=0.8.40",
+    "jax<=0.4.38",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.4",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "segyio>=1.9.13",
+    "statsmodels>=0.14.4",
+    "sympy>=1.13.3",
+    "torch<2.3",
+]
