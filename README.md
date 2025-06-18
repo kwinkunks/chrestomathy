@@ -24,6 +24,7 @@ Each notebook in this unstructured collection explores a different goal, such as
 - [Map interpolation](notebooks/Map_interpolation.ipynb)
 - [Unsupervised clustering](notebooks/Unsupervised_clustering.ipynb) (of rock properties)
 - [Phase determination](notebooks/Phase_determination.ipynb) (of seismic data)
+- [Frequency from seismic image](notebooks/Frequency_from_seismic_image.ipynb)
 - [Wavelet estimation](notebooks/Wavelet_estimation.ipynb) (from wells and seismic)
 
 
@@ -38,6 +39,7 @@ Topics for the future:
   - `Point` class...
   - ...with `functools.total_ordering`, operator overloading, etc
   - `shapely.Point` class
+- Time–frequency decomposition, eg with FFT, EMD, CWT, etc. See examples in my [SEG Geophysical Tutorial](https://github.com/seg/tutorials-2018/tree/master/1806_Time-frequency) on the topic, or [my old Time Freak repo](https://github.com/kwinkunks/timefreak).
 - Different ways to make a normal distribution (and/or other distributions as well perhaps).
 - Sorting algorithms, but this has been done many times before.
 - Pathfinding algorithms, but this is probably beyond me since I've never managed those problems in Advent of Code :D
