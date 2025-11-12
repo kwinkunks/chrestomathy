@@ -19,4 +19,5 @@ dependencies = [
     "statsmodels>=0.14.4",
     "sympy>=1.13.3",
     "torch<2.3",
+    "scikit-learn",
 ]
