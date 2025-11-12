@@ -11,13 +11,13 @@ Each notebook in this unstructured collection explores a different goal, such as
 
 ### 🥨 Maths and stats flavour
 
-- [Averages](notebooks/Averages.ipynb) ✨ **New**
-- [Activation functions](notebooks/Activation_functions.ipynb) ✨ **New**
-- [Function differentiation](notebooks/Function_differentiation.ipynb) ✨ **New**
-- [Timeseries extrapolation](notebooks/Timeseries_extrapolation.ipynb) ✨ **New**
+- [Averages](notebooks/Averages.ipynb)
+- [Activation functions](notebooks/Activation_functions.ipynb)
+- [Function differentiation](notebooks/Function_differentiation.ipynb)
+- [Timeseries extrapolation](notebooks/Timeseries_extrapolation.ipynb)
 - [Linear regression](notebooks/Linear_regression.ipynb)
 - [Regression algorithms](notebooks/Regression_algorithms.ipynb)
-- [Curse of dimensionality](notebooks/Curse_of_dimensionality.ipynb) ✨ **Updated**
+- [Curse of dimensionality](notebooks/Curse_of_dimensionality.ipynb)
 
 ### ⚒️  Geoscience flavour
 
