@@ -11,10 +11,10 @@ Each notebook in this unstructured collection explores a different goal, such as
 
 ### 🥨 Maths and stats flavour
 
-- [Averages](notebooks/Averages.ipynb) ✨ **New**
-- [Activation functions](notebooks/Activation_functions.ipynb) ✨ **New**
-- [Function differentiation](notebooks/Function_differentiation.ipynb) ✨ **New**
-- [Timeseries extrapolation](notebooks/Timeseries_extrapolation.ipynb) ✨ **New**
+- [Averages](notebooks/Averages.ipynb)
+- [Activation functions](notebooks/Activation_functions.ipynb)
+- [Function differentiation](notebooks/Function_differentiation.ipynb)
+- [Timeseries extrapolation](notebooks/Timeseries_extrapolation.ipynb)
 - [Linear regression](notebooks/Linear_regression.ipynb)
 - [Regression algorithms](notebooks/Regression_algorithms.ipynb)
 - [Curse of dimensionality](notebooks/Curse_of_dimensionality.ipynb) ✨ **Updated**
@@ -48,12 +48,13 @@ Topics for the future:
 - Clustering algorithms (or maybe just add to or generalize the existing notebook), but again [sklearn's comparison](https://scikit-learn.org/1.5/auto_examples/cluster/plot_cluster_comparison.html) is totally awesome.
 - Data assimilation methods, although quite technical, and probably already perfectly well done by, eg, [`dapper`](https://github.com/nansencenter/DAPPER)
 - Bayesian parameter estimation is perhaps more approachable than data assimilation.
+- Color spaces eg RGB, HSL, CMYK, CIELAB, etc, also see https://en.wikipedia.org/wiki/Oklab_color_space
 - Distance algorithms are a huge subject &mdash; some of these topics deserve whole notebooks to themselves. There are plenty to choose from.
   - All the Minkowski distances (L0, L1 L2, etc) and maybe octile distance
   - Coherence etc for seismic
   - Levenshtein edit distance for words
   - Canberra distance for ranked lists and other things https://en.wikipedia.org/wiki/Canberra_distance
-  - Word/doc embedding distance (embeddings and latent spaces in general), eg https://www.andrew.cmu.edu/course/15-121/labs/HW-4%20Document%20Distance/lab.html
+  - Word/document distance (embeddings and latent spaces in general), eg cosine similarity, see eg https://www.andrew.cmu.edu/course/15-121/labs/HW-4%20Document%20Distance/lab.html
   - Pixel and Image distance, eg see below
   - Clock distance (23:55 and 00:05 are very close, use circular distance eg https://gist.github.com/anonymous/7ce6274c630dabd70960c6d7fdd6c580
   - Wasserstein aka Earth mover’s distance for distributions https://en.wikipedia.org/wiki/Earth_mover%27s_distance
@@ -63,3 +64,13 @@ Topics for the future:
   - Well logs could use cross-correlation, say. Also see https://quant.stackexchange.com/questions/848/time-series-similarity-measures
   - Curves: Hausdorff distance (no order info), Frechet distance (dog leash distance), dynamic time-warp distance (not a metric as doesn’t meet triangle inequality condition), eg see https://www.youtube.com/watch?v=mxat0UbmDo0
   - Dynamic time warping would be fun to explore; most of the algorithms are closely related.
+- Uncertainty
+  - Python `uncertainties`
+  - [uncertain](https://github.com/mattt/Uncertain), which is an implementation of...
+  - ...[Bornholt's paper](https://jamesbornholt.com/papers/uncertaint-src13.finals.pdf)...
+  - ...[And another one by Bornholt](https://jamesbornholt.com/papers/uncertaint-asplos14.pdf)...
+  - ... and [Uncertain< T >](https://www.microsoft.com/en-us/research/publication/)uncertaint-a-first-order-type-for-uncertain-data-2/) (this links to a presentation I think), and see also [this](https://mjtsai.com/blog/2025/08/22/uncertaint/)
+  - See also [Bornholt's thesis](https://www.cs.utexas.edu/~mckinley/papers/bornholt-honors-2013.pdf)
+  - [uncertainpy](https://github.com/simetenn/uncertainpy)
+  - [uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox)
+  - Feda's `probabilit` library
