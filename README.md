@@ -17,7 +17,7 @@ Each notebook in this unstructured collection explores a different goal, such as
 - [Timeseries extrapolation](notebooks/Timeseries_extrapolation.ipynb)
 - [Linear regression](notebooks/Linear_regression.ipynb)
 - [Regression algorithms](notebooks/Regression_algorithms.ipynb)
-- [Curse of dimensionality](notebooks/Curse_of_dimensionality.ipynb) ✨ **Updated**
+- [Curse of dimensionality](notebooks/Curse_of_dimensionality.ipynb)
 
 ### ⚒️  Geoscience flavour
 
