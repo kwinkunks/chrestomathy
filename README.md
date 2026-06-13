@@ -27,7 +27,6 @@ Each notebook in this unstructured collection explores a different goal, such as
 - [Frequency from seismic image](notebooks/Frequency_from_seismic_image.ipynb)
 - [Wavelet estimation](notebooks/Wavelet_estimation.ipynb) (from wells and seismic)
 
-
 ## Suggested additions
 
 Topics for the future:
@@ -41,7 +40,10 @@ Topics for the future:
   - `shapely.Point` class
 - Time–frequency decomposition, eg with FFT, EMD, CWT, etc. See examples in my [SEG Geophysical Tutorial](https://github.com/seg/tutorials-2018/tree/master/1806_Time-frequency) on the topic, or [my old Time Freak repo](https://github.com/kwinkunks/timefreak).
 - Different ways to make a normal distribution (and/or other distributions as well perhaps).
-- Sorting algorithms, but this has been done many times before.
+- Ways to do convolution: loops, multiply in Fourier space, Toeplitz, im2col.
+- Language models: BOW, n-grams, simple generative grammar, RNN, LSTM, BERT, small transformer, big transformer.
+- Algorithmic ways to generate colormaps, eg cubehelix ([Green](https://people.phy.cam.ac.uk/dag9/CUBEHELIX/#Paper)), Oklab helix ([Ottosson](https://bottosson.github.io/posts/oklab/)), and maybe cosine palettes ([Quílez](https://iquilezles.org/articles/palettes/)) although can't see how they can be constrained to linear luminance.
+- Sorting algorithms, but this has been done many many times before, kind of the original chrestomathy.
 - Pathfinding algorithms, but this is probably beyond me since I've never managed those problems in Advent of Code :D
 - Binary classification algorithms: probably can't beat [scikit-learn's comparison](https://scikit-learn.org/1.5/auto_examples/classification/plot_classifier_comparison.html) though.
 - Multiclass classification algorithms, using rock property catalog data, and with the multi-class decision surface visualization [from Agile](https://github.com/agilescientific/geocomputing/blob/develop/prod/Classification_algorithms.ipynb).
